@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ormle/rawrxd-search/static/css/main.0f3519ad.css",
-    "main.js": "/ormle/rawrxd-search/static/js/main.2478cbb9.js",
-    "static/js/787.e7f6626b.chunk.js": "/ormle/rawrxd-search/static/js/787.e7f6626b.chunk.js",
-    "index.html": "/ormle/rawrxd-search/index.html",
-    "main.0f3519ad.css.map": "/ormle/rawrxd-search/static/css/main.0f3519ad.css.map",
-    "main.2478cbb9.js.map": "/ormle/rawrxd-search/static/js/main.2478cbb9.js.map",
-    "787.e7f6626b.chunk.js.map": "/ormle/rawrxd-search/static/js/787.e7f6626b.chunk.js.map"
+    "main.css": "/rawrxd-search/static/css/main.0f3519ad.css",
+    "main.js": "/rawrxd-search/static/js/main.d2758025.js",
+    "static/js/787.e7f6626b.chunk.js": "/rawrxd-search/static/js/787.e7f6626b.chunk.js",
+    "index.html": "/rawrxd-search/index.html",
+    "main.0f3519ad.css.map": "/rawrxd-search/static/css/main.0f3519ad.css.map",
+    "main.d2758025.js.map": "/rawrxd-search/static/js/main.d2758025.js.map",
+    "787.e7f6626b.chunk.js.map": "/rawrxd-search/static/js/787.e7f6626b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f3519ad.css",
-    "static/js/main.2478cbb9.js"
+    "static/js/main.d2758025.js"
   ]
 }
