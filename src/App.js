@@ -29,7 +29,7 @@ function App() {
   //Using Axios
   useEffect(() => {
     const fetchUsers = async () => {
-      const response = await axios.get('https://jsonplaceholder.typicode.com/users',
+      const response = await axios('https://jsonplaceholder.typicode.com/users',
       );
       setMonsters(response.data);
     };

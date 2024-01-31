@@ -5,11 +5,11 @@ import Card from '../card/card.component';
 import "./cardlist.styles.css";
 
 const CardList = ({ monsters }) => (
-    <dive className="cardlist">
+    <div className="cardlist">
         {monsters.map(monster => (
             <Card key={monster.id} monster={monster} />
         ))}
-    </dive>
+    </div>
 )
 
 export default CardList;
